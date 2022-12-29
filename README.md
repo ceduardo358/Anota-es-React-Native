@@ -3,7 +3,7 @@
 ### Core Components
 <p style="color: red">Todos compenentes a serem estudado por lista</p>
 
-- <a href="https://reactnative.dev/docs/components-and-apis target=_blank">Core components and APIs</a>
+- <a href="https://reactnative.dev/docs/components-and-apis " target="_blank">Core components and APIs</a>
 - <a href="https://reactnative.dev/docs/activityindicator">ActivityIndicator</a>
 - <a href="https://reactnative.dev/docs/button">Button</a>
 - <a href="https://reactnative.dev/docs/flatlist">FlatList</a>
